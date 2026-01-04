@@ -1,3 +1,9 @@
 # POSTER on INDUSTRY TALK 1
 Title : Data Analytics, Infrastructure & SAP <br>
 ![image alt](https://github.com/aiminurafinaizzati/assigntment1/blob/7c24faf1e443c0d60a1ed1151e375818683394f5/Screenshot%202026-01-04%20234117.png)
+
+Attending Industry Talk 1, I gained valuable exposure to how Data Analytics, Infrastructure, and SAP are applied in real industry settings. The session provided a clearer understanding of how organizations collect and analyze data to support strategic decision-making. I also learned that a strong and well-managed IT infrastructure is essential to ensure system reliability, security, and smooth business operations. In addition, the speaker explained how SAP functions as an integrated enterprise system that connects various departments and improves overall efficiency.
+
+Through this experience, I realized that the ICT industry requires not only technical knowledge but also problem-solving skills, adaptability, and continuous learning. The talk highlighted real challenges faced by professionals, such as managing large volumes of data and maintaining complex systems, which helped me better understand industry expectations. This knowledge has broadened my perspective on the roles and responsibilities of ICT professionals in supporting digital transformation.
+
+Working on this poster further strengthened my ability to analyze information, express my own opinions, and present ideas in a structured and creative manner. It also encouraged teamwork and effective communication when organizing content and designing the poster. Overall, this activity increased my motivation to improve my technical skills and better prepare myself for future career opportunities in the ICT field, as I now have a clearer vision of how technology plays a meaningful role in modern organizations.
